@@ -1,0 +1,13 @@
+Java
+Generics,Collections
+Datastructures and Algorithm
+Unit Testing - Junit
+Nosql - Mongodb
+REST API
+Spring MVC Framework
+Test automation tools - Mocha,Chai,Jasmine
+Spring boot and spring data
+Maven
+Node js
+angular js
+React js
